@@ -1,0 +1,36 @@
+/* Your Website Styles */
+body {
+	background: url("../img/hexellence.png");
+	max-width: 100%;
+}
+
+h1 {
+	color: #226799;
+	text-align: center;
+}
+
+h2 {
+	color: #226799;
+	text-align: center;
+}
+
+h4 {
+	color: #229999;
+}
+
+article {
+	color: #229999;
+	text-align: center;
+}
+
+div {
+	color: black;
+}
+
+img {
+	width: 300px;
+}
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
