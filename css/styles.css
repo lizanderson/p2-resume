@@ -27,9 +27,6 @@ div {
 	color: black;
 }
 
-img {
-	width: 300px;
-}
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
